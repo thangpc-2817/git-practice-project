@@ -1,1 +1,8 @@
-test case list
+TC001 - Verify login successfully on GitHub
+TC002 - Verify login with invalid password
+TC003 - Verify logout successfully
+
+Contact Information
+Email: pham.cao.thang@sun-asterisk.com
+Phone: 123456677711
+Address: Da Nang, Vietnam
