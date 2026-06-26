@@ -1,4 +1,4 @@
-TC001 - Verify login successfully on GitHub
+TC001 - Verify login successfully from GitHub
 TC002 - Verify login with invalid password
 TC003 - Verify logout successfully
 
